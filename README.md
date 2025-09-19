@@ -14,3 +14,7 @@
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=JosiLiebich&theme=ambient_gradient&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&hide_title=true)<br/>
 
+## Training
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/33280475-52b6-411c-9d2d-10314aeffc2f/thumbnail" >
+</p>
